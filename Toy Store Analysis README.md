@@ -2,16 +2,13 @@
 # Toy Store Sales & Inventory Dashboard
 
 ## Project Objective
-This project simulates a data-driven decision-support dashboard for a fictional toy retail chain. The goal is to enable both strategic and operational decision-making using interactive Power BI reports. This dashboard is designed for **potential clients**, **recruiters**, and **hiring managers** who want to see how I translate raw data into actionable business insights.
-
+This project simulates a data-driven decision-support dashboard for a fictional toy retail chain. The goal is to enable both strategic and operational decision-making using interactive Power BI reports.
 ---
-
 ## Tools & Skills Used
 - Power BI (Data modelling, DAX, Power Query)
 - Data cleaning & transformation
 - Business KPI design
 - Visual storytelling & dashboard design
-
 ---
 
 ##  Datasets Used
@@ -43,8 +40,6 @@ The dashboard is split into **two pages** for better clarity and business releva
 #
 ![Image](https://github.com/user-attachments/assets/ebe6e8c8-6bd0-4618-8c0c-861d883ee99c)
 #
-![Image](https://github.com/user-attachments/assets/d9eab6e2-33dc-4bde-b6a3-12fcfa9f3a03)
-#
 
 #### Business Insights:
 - Revenue is concentrated in a few categories — potential overdependence
@@ -61,6 +56,9 @@ The dashboard is split into **two pages** for better clarity and business releva
 - **Low-Margin Product Analysis**: Focus on SKUs under 20% margin
 - **Overstock Risk View**: Low-margin, low-turnover products visualised for action
 
+#
+![Image](https://github.com/user-attachments/assets/d9eab6e2-33dc-4bde-b6a3-12fcfa9f3a03)
+#
 #### Business Insights:
 - Products like **Playfoam** and **Plush Pony** have high margins but very low sales → need promotion or bundling
 - **Rubik's Cube** and **Splash Balls** have fast turnover but low margin → opportunity to revisit pricing
